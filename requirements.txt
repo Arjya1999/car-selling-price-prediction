@@ -291,9 +291,6 @@ QtAwesome==0.6.1
 qtconsole==4.6.0
 QtPy==1.9.0
 questionary==1.5.2
-rasa==1.9.7
-rasa-sdk==1.9.0
-rasa-x==0.27.7
 redis==3.4.1
 regex==2020.4.4
 requests==2.23.0
