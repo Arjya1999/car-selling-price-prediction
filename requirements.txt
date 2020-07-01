@@ -441,3 +441,4 @@ yellowbrick==1.0.1
 zict==1.0.0
 zipp==2.2.0
 zope.interface==5.1.0
+gunicorn
