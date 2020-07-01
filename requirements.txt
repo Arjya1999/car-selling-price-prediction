@@ -283,8 +283,6 @@ python-utils==2.4.0
 pythreejs==2.2.0
 pytz==2019.3
 PyWavelets==1.1.1
-pywin32==227
-pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.3
 pyzmq==18.1.1
