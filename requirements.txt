@@ -177,9 +177,6 @@ mattermostwrapper==2.2
 mccabe==0.6.1
 missingno==0.4.2
 mistune==0.8.4
-mkl-fft==1.0.15
-mkl-random==1.1.0
-mkl-service==2.3.0
 mlxtend==0.17.2
 mock==4.0.1
 more-itertools==8.2.0
