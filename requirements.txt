@@ -4,8 +4,6 @@ aiohttp==3.6.2
 alabaster==0.7.12
 alembic==1.4.2
 altair==4.1.0
-anaconda-navigator==1.9.12
-anaconda-project==0.8.3
 aplus==0.11.0
 APScheduler==3.6.3
 argh==0.26.2
